@@ -1,5 +1,6 @@
 import './App.css';
-import {Footer, Header} from './Components';
+import Footer from './Components/Footer';
+import Header from './Components/Header'
 function App() {
   return (
     <div className="App">
